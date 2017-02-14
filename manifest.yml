@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: Nodejs-test2-2017-02-14
+  host: Nodejs-test2-2017-02-14
+  disk_quota: 1024M
+  services:
+  - Text to Speech-20170214
